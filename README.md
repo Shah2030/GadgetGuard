@@ -59,10 +59,21 @@
 - `BiometricPrompt` for fingerprint auth
 
 ---
+### 📦 Prerequisites
+- Android Studio (Electric Eel or later recommended)
+- Android SDK 33+
+- Firebase account
 
-### 🚀 How to Run the App
-
-1. Clone the repository:
+### 🔧 Open in Android Studio
+- File → Open → Select the GadgetGuard folder or Clone the repository:
    ```bash
    git clone https://github.com/your-username/GadgetGuard.git
    cd GadgetGuard
+
+
+### 🔥 Configure Firebase
+1. Go to [Firebase Console](https://console.firebase.google.com/)
+2. Create a Firebase project
+3. Enable **Authentication** and **Firestore**
+4. Download `google-services.json`
+5. Place it inside your project at: GadgetGuard/app/google-services.json
