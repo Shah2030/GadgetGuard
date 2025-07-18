@@ -1,6 +1,8 @@
 # 📱 GadgetGuard - Gadget Addiction Tracker App
 
-![Splash](Screenshots/splash.png)
+<p align="center">
+  <img src="Screenshots/splash.png" alt="Splash" width="300"/>
+</p>
 
 **GadgetGuard** is a secure and intelligent Android app designed to help users track gadget usage and predict gadget addiction using a local TensorFlow Lite model. It includes a chatbot to suggest healthy digital habits, biometric security, data visualization, and PDF export features.
 
