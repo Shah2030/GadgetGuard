@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to GadgetGuard"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/btnTrackUsage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Track Gadget Usage" />
+
+    <Button
+        android:id="@+id/btnPredictAddiction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Predict Addiction"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnChatbot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Talk to Support Bot"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_marginTop="32dp" />
+
+</LinearLayout>

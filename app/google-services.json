@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618833543282",
+    "project_id": "gadgetguard-7d54e",
+    "storage_bucket": "gadgetguard-7d54e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618833543282:android:bb0e28e3076a90a9f142eb",
+        "android_client_info": {
+          "package_name": "com.example.gadgetguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EoiKa0leRZ0V-E3J48FixcZxTgjj-jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

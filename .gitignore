@@ -1,0 +1,27 @@
+# Ignore all .iml files
+*.iml
+
+# Ignore Gradle cache and generated files
+.gradle/
+build/
+**/build/
+
+# Android Studio & IntelliJ IDEA files
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# macOS
+.DS_Store
+
+# Captures folder
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
